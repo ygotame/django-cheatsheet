@@ -2,3 +2,5 @@ Initial an app :  python3 manage.py startapp meal
 Remove app : Delete the directory
 
 Run the server : python3 manage.py runserver
+Migrate : python3 manage.py migrate
+Create a superuser : python3 manage.py createsuperuser
